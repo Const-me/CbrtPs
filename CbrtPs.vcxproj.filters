@@ -6,4 +6,7 @@
   <ItemGroup>
     <ClInclude Include="CbrtPs.hpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Readme.md" />
+  </ItemGroup>
 </Project>
